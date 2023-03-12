@@ -1,0 +1,17 @@
+C:\Users\Yahia\source\repos\Books search engine\Books search engine\obj\Debug\net6.0\Books search engine.csproj.AssemblyReference.cache
+C:\Users\Yahia\source\repos\Books search engine\Books search engine\obj\Debug\net6.0\Books search engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yahia\source\repos\Books search engine\Books search engine\obj\Debug\net6.0\Books search engine.AssemblyInfoInputs.cache
+C:\Users\Yahia\source\repos\Books search engine\Books search engine\obj\Debug\net6.0\Books search engine.AssemblyInfo.cs
+C:\Users\Yahia\source\repos\Books search engine\Books search engine\obj\Debug\net6.0\Books search engine.csproj.CoreCompileInputs.cache
+C:\Users\Yahia\source\repos\Books search engine\Books search engine\bin\Debug\net6.0\Books search engine.exe
+C:\Users\Yahia\source\repos\Books search engine\Books search engine\bin\Debug\net6.0\Books search engine.deps.json
+C:\Users\Yahia\source\repos\Books search engine\Books search engine\bin\Debug\net6.0\Books search engine.runtimeconfig.json
+C:\Users\Yahia\source\repos\Books search engine\Books search engine\bin\Debug\net6.0\Books search engine.dll
+C:\Users\Yahia\source\repos\Books search engine\Books search engine\bin\Debug\net6.0\Books search engine.pdb
+C:\Users\Yahia\source\repos\Books search engine\Books search engine\bin\Debug\net6.0\itextsharp.dll
+C:\Users\Yahia\source\repos\Books search engine\Books search engine\obj\Debug\net6.0\Books search engine.csproj.CopyComplete
+C:\Users\Yahia\source\repos\Books search engine\Books search engine\obj\Debug\net6.0\Books search engine.dll
+C:\Users\Yahia\source\repos\Books search engine\Books search engine\obj\Debug\net6.0\refint\Books search engine.dll
+C:\Users\Yahia\source\repos\Books search engine\Books search engine\obj\Debug\net6.0\Books search engine.pdb
+C:\Users\Yahia\source\repos\Books search engine\Books search engine\obj\Debug\net6.0\Books search engine.genruntimeconfig.cache
+C:\Users\Yahia\source\repos\Books search engine\Books search engine\obj\Debug\net6.0\ref\Books search engine.dll
